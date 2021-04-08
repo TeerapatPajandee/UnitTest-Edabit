@@ -1,6 +1,5 @@
 def flash(flashcard):
-    return (flashcard[0],flashcard[1],flashcard[2])
-   
+       
     if (flashcard[1] == '+'):
         return (flashcard[0] + flashcard[2])
     
@@ -15,7 +14,10 @@ def flash(flashcard):
             return None
         else:
             return (round(flashcard[0] / flashcard[2],2))
-        
+            
+    print (flashcard[0],flashcard[1],flashcard[2])
+
+
 # def flash(flashcard):
 #     print (flashcard[0],flashcard[1],flashcard[2])
    
