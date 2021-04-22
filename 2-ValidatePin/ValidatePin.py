@@ -1,6 +1,5 @@
 # Pin = input("Enter Pin 4 or 6 Characters :")
 
-
 def valid(txt):
     print(txt)
 

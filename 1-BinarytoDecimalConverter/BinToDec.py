@@ -12,6 +12,15 @@ def binary_to_decimal(binary):
     return sum
 
 
+
+
+
+
+
+
+    
+
+
 # binary_to_decimal([1, 1, 1, 1, 1, 1, 1, 1])
 # a = 0b11111111
 # print(a)

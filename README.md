@@ -8,8 +8,8 @@ Quiz Python, 5 verses in Edabit
 2.Validate Pin [Medium]
 -> https://edabit.com/challenge/xG2KB9T7mHgycGCSz
 
-3.Get Students with Names and Top Notes [Medium]
--> https://edabit.com/challenge/5KqHNS9wS97zN7Xyy
+3.Flash Cards
+-> https://edabit.com/challenge/ZZsnGAjYLyosG9zmH
 
 4.Letters Shared Between Two Words [Medium]
 -> https://edabit.com/challenge/wvuk7d2mWgZEmFFYD
